@@ -1,5 +1,16 @@
 # CookieRun Classic Bot
 
+โปรเจกต์บอทช่วยเล่น CookieRun Classic บน Android Emulator โดยใช้ ADB สำหรับเชื่อมต่อและสั่งงานเกม และใช้ OpenCV ตรวจจับหน้าจอเพื่อทำงานต่าง ๆ เช่น เริ่มเกม จัดการไอเทม และดำเนินเกมในแต่ละรอบ
+
+> **สถานะ:** โปรเจกต์อยู่ระหว่างการพัฒนา ฟีเจอร์และวิธีใช้งานอาจมีการเปลี่ยนแปลง
+
+## Credits
+
+- **REXLPXME**
+- **max180643**
+
+---
+
 An automated bot for CookieRun Classic that uses ADB (Android Debug Bridge) and OpenCV template matching to detect game stages and automate gameplay on an Android device or emulator.
 
 ## Features
